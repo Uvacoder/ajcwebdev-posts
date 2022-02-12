@@ -1,0 +1,20 @@
+{
+  "title": "ajcwebdev",
+  "url": "https://ajcwebdev.com/",
+  "language": "en",
+  "description": "devvin' the web",
+  "feed": {
+    "subtitle": "devvin' the web",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://ajcwebdev.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://ajcwebdev.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Anthony Campolo",
+    "url": "https://ajcwebdev.com/about-me/"
+  }
+}
